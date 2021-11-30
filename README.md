@@ -1,3 +1,1 @@
-<p align="center">
-<img src="profile.jpg" align="center" width="600">
-</p>
+![a piece of generative art](./profile.jpg)
