@@ -1,6 +1,6 @@
 hi, so nice to meet you,
 <br />
-my name is charlotte (she/her)
+my name is charlotte
 <br />
 i'm an artist & creative coder
 <br />
